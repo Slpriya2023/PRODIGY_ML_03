@@ -1,0 +1,1 @@
+This project implements a Support Vector Machine (SVM) to classify images of cats and dogs using the Kaggle dataset. The goal is to distinguish between images of cats and dogs based on their visual features. This project is part of an internship at Prodigy Infotech focusing on machine learning applications
